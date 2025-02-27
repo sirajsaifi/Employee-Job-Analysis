@@ -26,17 +26,15 @@ Removing inconsistencies: Standardizing job titles, salary formats, and categori
 To derive insights, I used various Excel functionalities:
 
 Forecasting job postings: Created a forecasting sheet to predict future job postings based on historical data.
-What-If Analysis:
-One-variable & two-variable data tables: Analyzed base salary variations over five years under different bonus and raise percentages.
+What-If Analysis: One-variable & two-variable data tables --> Analyzed base salary variations over five years under different bonus and raise percentages.
 Goal Seek & Scenario Manager: Compared different total compensation scenarios over time.
 Lookup Functions: Used VLOOKUP and HLOOKUP for cross-referencing data.
 
 ## **Dashboard & Visualization**
-To present the findings effectively, I:
-
+To present the findings effectively, I
 Created multiple Pivot Tables to extract key insights.
-Built an interactive dashboard with:
-Slicers for dynamic filtering.
+Built an interactive dashboard with
+slicers for dynamic filtering.
 KPI Measures calculated using DAX queries.
 
 ## **Objective**
@@ -52,8 +50,8 @@ Interactive data visualization
 ## **Learning Outcomes**
 This project enabled me to:
 
-Perform ETL operations using Power Query.
-Apply advanced Excel functions for analysis.
-Use What-If Analysis, Goal Seek, and Scenario Manager for financial planning.
-Build interactive dashboards using Pivot Tables and DAX.
-Extract business insights from large datasets efficiently.
+Performed ETL operations using Power Query.
+Applied advanced Excel functions for analysis.
+Used What-If Analysis, Goal Seek, and Scenario Manager for compensation planning.
+Built an interactive dashboards using Pivot Tables and DAX.
+Extracted business insights from large datasets efficiently.
